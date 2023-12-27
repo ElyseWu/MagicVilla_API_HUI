@@ -18,7 +18,7 @@
 
 ## Used Microsoft SQL server to store user information, villa and villa number information, e.g. stay information and booking history, and utilized Google Cloud Storage to store media files for the uploaded stays
 
-## Utilized Caching, Flitering and Pagination for better perfomrmance and utilization
+## Implemented caching, filtering, and pagination techniques to enhance performance and optimize resource utilization
 
 ## Designed and implemented a robust Versioning API for seamless code management and deployment within the project. The API supported version tracking, rollback functionalities, and automated deployment, significantly enhancing the maintainability and stability of the development process. 
 
