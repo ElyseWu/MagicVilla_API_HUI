@@ -1,5 +1,5 @@
 # An online stay booking application for host to upload and manage stays and guest to search and book stays
-<img width="1122" alt="image" src="https://github.com/ElyseWu/MagicVilla_API_HUI/assets/99052684/547a1144-7e82-417b-b329-b0d0ace76bad">
+<img width="1076" alt="image" src="https://github.com/ElyseWu/MagicVilla_API_HUI/assets/99052684/119d926b-db9d-427f-9d25-f65abd985c23">
 <img width="1075" alt="image" src="https://github.com/ElyseWu/MagicVilla_API_HUI/assets/99052684/355959a8-2377-4ade-a96e-f707af9179fb">
 
 ## user register and login page
